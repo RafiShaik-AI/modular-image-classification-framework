@@ -30,6 +30,28 @@ Google Colab
 - Deep learning research
 - Educational AI projects
 
+## Installation
+
+pip install -r requirements.txt
+
+## Usage
+
+python training/train.py
+
+## Dataset
+
+This project currently supports the CIFAR-10 dataset.
+
+## Results
+
+The CNN model achieves good classification accuracy on CIFAR-10.
+
+## Future Work
+
+- Add ResNet architecture
+- Add MobileNet
+- Add data augmentation
+
 ## Future Improvements
 - Add ResNet and MobileNet models
 - Support custom datasets
