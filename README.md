@@ -12,6 +12,13 @@ This project provides a modular deep learning framework for training and evaluat
 - Training and evaluation scripts
 - Accuracy visualization
 
+## Project Structure
+datasets/ – dataset storage  
+models/ – deep learning model architectures  
+training/ – training scripts  
+utils/ – helper functions  
+notebook/ – experimentation notebooks
+
 ## Technologies
 Python  
 TensorFlow  
@@ -24,4 +31,9 @@ Google Colab
 - Educational AI projects
 
 ## Future Improvements
-Add support for ResNet, MobileNet, and data augmentation pipelines.
+- Add ResNet and MobileNet models
+- Support custom datasets
+- Add data augmentation pipeline
+
+## License
+MIT License
