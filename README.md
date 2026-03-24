@@ -12,50 +12,50 @@ This project provides a modular deep learning framework for training and evaluat
 - Training and evaluation scripts
 - Accuracy visualization
 
-## Project Structure
+## Project Structure:-
 datasets/ – dataset storage  
 models/ – deep learning model architectures  
 training/ – training scripts  
 utils/ – helper functions  
 notebook/ – experimentation notebooks
 
-## Technologies
+## Technologies:-
 Python  
 TensorFlow  
 Keras  
 Google Colab  
 
-## Applications
+## Applications:-
 - Computer vision experiments
 - Deep learning research
 - Educational AI projects
 
-## Installation
+## Installation:-
 
 pip install -r requirements.txt
 
-## Usage
+## Usage:-
 
 python training/train.py
 
-## Dataset
+## Dataset:-
 
 This project currently supports the CIFAR-10 dataset.
 
-## Results
+## Results:-
 
 The CNN model achieves good classification accuracy on CIFAR-10.
 
-## Future Work
+## Future Work:-
 
 - Add ResNet architecture
 - Add MobileNet
 - Add data augmentation
 
-## Future Improvements
+## Future Improvements:-
 - Add ResNet and MobileNet models
 - Support custom datasets
 - Add data augmentation pipeline
 
-## License
+## License:-
 MIT License
