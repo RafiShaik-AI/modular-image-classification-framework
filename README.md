@@ -6,35 +6,35 @@ A modular deep learning framework for training and evaluating image classificati
 ## Overview
 This project provides a modular deep learning framework for training and evaluating image classification models.
 
-## Features
+## Features:-
 - Modular CNN architecture
 - CIFAR-10 dataset support
 - Training and evaluation scripts
 - Accuracy visualization
 
-## Project Structure:-
+## Project Structure:
 datasets/ – dataset storage  
 models/ – deep learning model architectures  
 training/ – training scripts  
 utils/ – helper functions  
 notebook/ – experimentation notebooks
 
-## Technologies:-
+## Technologies:--
 Python  
 TensorFlow  
 Keras  
 Google Colab  
 
-## Applications:-
+## Applications:--
 - Computer vision experiments
 - Deep learning research
 - Educational AI projects
 
-## Installation:-
+## Installation:--
 
 pip install -r requirements.txt
 
-## Usage:-
+## Usage:
 
 python training/train.py
 
