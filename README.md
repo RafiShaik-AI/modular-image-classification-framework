@@ -19,18 +19,18 @@ training/ – training scripts
 utils/ – helper functions  
 notebook/ – experimentation notebooks
 
-## Technologies:--
+## Technologies:-
 Python  
 TensorFlow  
 Keras  
 Google Colab  
 
-## Applications:--
+## Applications:-
 - Computer vision experiments
 - Deep learning research
 - Educational AI projects
 
-## Installation:--
+## Installation:-
 
 pip install -r requirements.txt
 
