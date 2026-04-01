@@ -19,13 +19,13 @@ training/ – training scripts
 utils/ – helper functions  
 notebook/ – experimentation notebooks
 
-## Technologies:--
+## Technologies:-
 Python  
 TensorFlow  
 Keras  
 Google Colab  
 
-## Applications:--
+## Applications:-
 - Computer vision experiments
 - Deep learning research
 - Educational AI projects
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 python training/train.py
 
-## Dataset:--
+## Dataset:-
 
 This project currently supports the CIFAR-10 dataset.
 
@@ -46,16 +46,16 @@ This project currently supports the CIFAR-10 dataset.
 
 The CNN model achieves good classification accuracy on CIFAR-10.
 
-## Future Work:--
+## Future Work:-
 
 - Add ResNet architecture
 - Add MobileNet
 - Add data augmentation
 
-## Future Improvements:--
+## Future Improvements:-
 - Add ResNet and MobileNet models
 - Support custom datasets
 - Add data augmentation pipeline
 
-## License:--
+## License:-
 MIT License
