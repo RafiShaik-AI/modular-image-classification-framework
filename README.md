@@ -6,7 +6,7 @@ A modular deep learning framework for training and evaluating image classificati
 ## Overview
 This project provides a modular deep learning framework for training and evaluating image classification models.
 
-## Features:-
+## Features:--
 - Modular CNN architecture
 - CIFAR-10 dataset support
 - Training and evaluation scripts
