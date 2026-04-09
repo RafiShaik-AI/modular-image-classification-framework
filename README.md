@@ -12,7 +12,7 @@ This project provides a modular deep learning framework for training and evaluat
 - Training and evaluation scripts
 - Accuracy visualization
 
-## Project Structure:-
+## Project Structure:
 datasets/ – dataset storage  
 models/ – deep learning model architectures  
 training/ – training scripts  
