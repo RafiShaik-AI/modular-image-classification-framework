@@ -19,7 +19,7 @@ training/ – training scripts
 utils/ – helper functions  
 notebook/ – experimentation notebooks
 
-## Technologies:- 
+## Technologies:
 Python  
 TensorFlow  
 Keras  
