@@ -2,7 +2,7 @@
 
 A modular deep learning framework for training and evaluating image classification models on datasets like CIFAR-10 and MNIST. Supports configurable CNN architectures, automated training, and performance visualization using Python and TensorFlow. 
 
-# Modular Image Classification Framework  :- qwertyui
+# Modular Image Classification Framework  :- qwertyu
 
 ## Overview
 This project provides a modular deep learning framework for training and evaluating image classification models.
